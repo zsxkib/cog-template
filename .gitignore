@@ -169,3 +169,21 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Replicate
+.cog
+/model_cache/*
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.heic
+*.heif
+*.hevc
+*.h264
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
