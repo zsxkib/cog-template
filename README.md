@@ -2,7 +2,7 @@
 
 This is a template repository for creating [Cog](https://github.com/replicate/cog) models that efficiently handle model weights with proper caching. It includes tools to upload model weights to Google Cloud Storage and generate download code for your `predict.py` file.
 
-[![Cog](https://github.com/replicate/cog/raw/main/docs/header.png)](https://github.com/replicate/cog)
+[![Replicate](https://replicate.com/zsxkib/model-name/badge)](https://replicate.com/zsxkib/model-name)
 
 ## Getting Started
 
@@ -140,8 +140,8 @@ MIT
 
 ---
 
-[![Replicate](https://replicate.com/account/model-name/badge)](https://replicate.com/account/model-name) 
+---
 
-⭐ Star the repo on [GitHub](https://github.com/username/repo-name)!
+⭐ Star this on [GitHub](https://github.com/zsxkib/model-name)!
 
-👋 Follow me on [Twitter/X](https://twitter.com/username)
+👋 Follow `zsxkib` on [Twitter/X](https://twitter.com/zsakib_)
